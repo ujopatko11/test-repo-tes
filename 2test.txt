@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 qdqwdqwd
+=======
+lllk
+
+>>>>>>> 8723ae7 (Merge pull request #2 from ujopatko11/master)
